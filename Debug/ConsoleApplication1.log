@@ -1,5 +1,5 @@
-﻿  Q_1463.cpp
-c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_1463.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  Q_11726.cpp
+c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_11726.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
   ConsoleApplication1.vcxproj -> C:\Users\yoon\Desktop\알고리즘S\algorithm_training\ConsoleApplication1\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> C:\Users\yoon\Desktop\알고리즘S\algorithm_training\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
