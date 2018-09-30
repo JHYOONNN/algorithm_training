@@ -1,11 +1,7 @@
-﻿  Q_9465.cpp
-c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_9465.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  Q_1912.cpp
+c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_1912.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
-c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_9465.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
-c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_9465.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
-c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_9465.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_1912.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
   ConsoleApplication1.vcxproj -> C:\Users\yoon\Desktop\알고리즘S\algorithm_training\ConsoleApplication1\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> C:\Users\yoon\Desktop\알고리즘S\algorithm_training\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

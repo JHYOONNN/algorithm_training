@@ -42,5 +42,17 @@
     <ClCompile Include="Q_9465.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Q_2156.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_11053.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_11055.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q_1912.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
