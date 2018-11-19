@@ -1,8 +1,7 @@
-﻿  Q_1377.cpp
-c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_1377.cpp(17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_1377.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  Q_2422.cpp
+c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_2422.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
-c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_1377.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\yoon\desktop\알고리즘s\algorithm_training\consoleapplication1\consoleapplication1\q_2422.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
   ConsoleApplication1.vcxproj -> C:\Users\yoon\Desktop\알고리즘S\algorithm_training\ConsoleApplication1\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> C:\Users\yoon\Desktop\알고리즘S\algorithm_training\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
